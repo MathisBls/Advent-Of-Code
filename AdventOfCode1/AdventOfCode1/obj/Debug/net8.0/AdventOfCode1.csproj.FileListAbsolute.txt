@@ -1,0 +1,14 @@
+C:\Users\mboulais\Documents\perso\AdventOfCode\AdventOfCode1\AdventOfCode1\bin\Debug\net8.0\AdventOfCode1.exe
+C:\Users\mboulais\Documents\perso\AdventOfCode\AdventOfCode1\AdventOfCode1\bin\Debug\net8.0\AdventOfCode1.deps.json
+C:\Users\mboulais\Documents\perso\AdventOfCode\AdventOfCode1\AdventOfCode1\bin\Debug\net8.0\AdventOfCode1.runtimeconfig.json
+C:\Users\mboulais\Documents\perso\AdventOfCode\AdventOfCode1\AdventOfCode1\bin\Debug\net8.0\AdventOfCode1.dll
+C:\Users\mboulais\Documents\perso\AdventOfCode\AdventOfCode1\AdventOfCode1\bin\Debug\net8.0\AdventOfCode1.pdb
+C:\Users\mboulais\Documents\perso\AdventOfCode\AdventOfCode1\AdventOfCode1\obj\Debug\net8.0\AdventOfCode1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mboulais\Documents\perso\AdventOfCode\AdventOfCode1\AdventOfCode1\obj\Debug\net8.0\AdventOfCode1.AssemblyInfoInputs.cache
+C:\Users\mboulais\Documents\perso\AdventOfCode\AdventOfCode1\AdventOfCode1\obj\Debug\net8.0\AdventOfCode1.AssemblyInfo.cs
+C:\Users\mboulais\Documents\perso\AdventOfCode\AdventOfCode1\AdventOfCode1\obj\Debug\net8.0\AdventOfCode1.csproj.CoreCompileInputs.cache
+C:\Users\mboulais\Documents\perso\AdventOfCode\AdventOfCode1\AdventOfCode1\obj\Debug\net8.0\AdventOfCode1.dll
+C:\Users\mboulais\Documents\perso\AdventOfCode\AdventOfCode1\AdventOfCode1\obj\Debug\net8.0\refint\AdventOfCode1.dll
+C:\Users\mboulais\Documents\perso\AdventOfCode\AdventOfCode1\AdventOfCode1\obj\Debug\net8.0\AdventOfCode1.pdb
+C:\Users\mboulais\Documents\perso\AdventOfCode\AdventOfCode1\AdventOfCode1\obj\Debug\net8.0\AdventOfCode1.genruntimeconfig.cache
+C:\Users\mboulais\Documents\perso\AdventOfCode\AdventOfCode1\AdventOfCode1\obj\Debug\net8.0\ref\AdventOfCode1.dll

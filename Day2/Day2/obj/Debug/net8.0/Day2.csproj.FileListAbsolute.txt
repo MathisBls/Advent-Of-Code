@@ -12,3 +12,4 @@ C:\Users\mboulais\Documents\perso\AdventOfCode\Day2\Day2\obj\Debug\net8.0\refint
 C:\Users\mboulais\Documents\perso\AdventOfCode\Day2\Day2\obj\Debug\net8.0\Day2.pdb
 C:\Users\mboulais\Documents\perso\AdventOfCode\Day2\Day2\obj\Debug\net8.0\Day2.genruntimeconfig.cache
 C:\Users\mboulais\Documents\perso\AdventOfCode\Day2\Day2\obj\Debug\net8.0\ref\Day2.dll
+C:\Users\mboulais\Documents\perso\AdventOfCode\Day2\Day2\obj\Debug\net8.0\Day2.sourcelink.json

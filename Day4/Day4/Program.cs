@@ -108,7 +108,7 @@ class XMASFinder
 {
     static void Main(string[] args)
     {
-        string filePath = @"G:\projet\C#\AdventOfCode\Advent-Of-Code-CSharp\input.txt";
+        string filePath = @"C:\Users\mboulais\Documents\perso\AdventOfCode\input.txt";
         string[] grid = File.ReadAllLines(filePath);
         int count = CountXMAS(grid);
         Console.WriteLine($"Total X-MAS patterns: {count}");

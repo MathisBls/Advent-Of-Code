@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Day5
-build_property.ProjectDir = C:\Users\mboulais\Documents\perso\AdventOfCode\Day5\Day5\
+build_property.ProjectDir = g:\projet\C#\AdventOfCode\Advent-Of-Code-CSharp\Day5\Day5\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

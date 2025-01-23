@@ -31,7 +31,7 @@ class Day2
         bool isincreasing = true;
         bool isDecreasing = true;
 
-        for(int i = 1; i < levels.Length; i++) { 
+        for(int i = 1; i < levels.Length; i++) {
             int difference = levels[i] - levels[i -1];
 
             if(Math.Abs(difference) < 1 ||  Math.Abs(difference) > 3)
@@ -48,14 +48,10 @@ class Day2
                 isincreasing = false;
             }
         }
-
         return isincreasing || isDecreasing;
     }
-
 }
-
 */
-
 
 using System;
 using System.Collections.Generic;
@@ -115,7 +111,7 @@ class Day2
 
     static bool CanBecomeSafeWithDampener(int[] levels)
     {
-        for(int i = 0; i < levels.Length; i++)
+        for (int i = 0; i < levels.Length; i++)
         {
             int[] modifedLevels = levels.Where((_, index) => index != i).ToArray();
 

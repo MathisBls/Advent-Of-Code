@@ -1,0 +1,15 @@
+G:\projet\C#\AdventOfCode\Advent-Of-Code-CSharp\Day8\Day8\bin\Debug\net8.0\Day8.exe
+G:\projet\C#\AdventOfCode\Advent-Of-Code-CSharp\Day8\Day8\bin\Debug\net8.0\Day8.deps.json
+G:\projet\C#\AdventOfCode\Advent-Of-Code-CSharp\Day8\Day8\bin\Debug\net8.0\Day8.runtimeconfig.json
+G:\projet\C#\AdventOfCode\Advent-Of-Code-CSharp\Day8\Day8\bin\Debug\net8.0\Day8.dll
+G:\projet\C#\AdventOfCode\Advent-Of-Code-CSharp\Day8\Day8\bin\Debug\net8.0\Day8.pdb
+G:\projet\C#\AdventOfCode\Advent-Of-Code-CSharp\Day8\Day8\obj\Debug\net8.0\Day8.GeneratedMSBuildEditorConfig.editorconfig
+G:\projet\C#\AdventOfCode\Advent-Of-Code-CSharp\Day8\Day8\obj\Debug\net8.0\Day8.AssemblyInfoInputs.cache
+G:\projet\C#\AdventOfCode\Advent-Of-Code-CSharp\Day8\Day8\obj\Debug\net8.0\Day8.AssemblyInfo.cs
+G:\projet\C#\AdventOfCode\Advent-Of-Code-CSharp\Day8\Day8\obj\Debug\net8.0\Day8.csproj.CoreCompileInputs.cache
+G:\projet\C#\AdventOfCode\Advent-Of-Code-CSharp\Day8\Day8\obj\Debug\net8.0\Day8.sourcelink.json
+G:\projet\C#\AdventOfCode\Advent-Of-Code-CSharp\Day8\Day8\obj\Debug\net8.0\Day8.dll
+G:\projet\C#\AdventOfCode\Advent-Of-Code-CSharp\Day8\Day8\obj\Debug\net8.0\refint\Day8.dll
+G:\projet\C#\AdventOfCode\Advent-Of-Code-CSharp\Day8\Day8\obj\Debug\net8.0\Day8.pdb
+G:\projet\C#\AdventOfCode\Advent-Of-Code-CSharp\Day8\Day8\obj\Debug\net8.0\Day8.genruntimeconfig.cache
+G:\projet\C#\AdventOfCode\Advent-Of-Code-CSharp\Day8\Day8\obj\Debug\net8.0\ref\Day8.dll

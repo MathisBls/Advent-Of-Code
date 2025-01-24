@@ -58,7 +58,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-class Day2
+class SafeReportAnalyzer
 {
     static void Main(string[] args)
     {
@@ -122,6 +122,5 @@ class Day2
         }
         return false;
     }
-
 }
 

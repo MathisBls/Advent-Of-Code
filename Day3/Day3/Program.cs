@@ -32,7 +32,7 @@
 using System;
 using System.Text.RegularExpressions;
 
-class Day3
+class MemoryProcessor
 {
     static void Main(string[] args)
     {
@@ -46,7 +46,7 @@ class Day3
         Regex controlRegex = new Regex(controlPattern);
 
         int total = 0;
-        bool isEnabled = true; 
+        bool isEnabled = true;
 
         int position = 0;
         while (position < corruptedMemory.Length)

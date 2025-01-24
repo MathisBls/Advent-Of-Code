@@ -34,7 +34,7 @@ using System;
 using System.IO;
 using System.Linq;
 
-class Day1
+class SimilarityCalculator
 {
     static void Main(string[] args)
     {
@@ -54,7 +54,7 @@ class Day1
         }
 
         Dictionary<int, int> rightListCounts = new Dictionary<int, int>();
-        foreach(int number in rightList)
+        foreach (int number in rightList)
         {
             if (!rightListCounts.ContainsKey(number))
             {
@@ -64,9 +64,9 @@ class Day1
         }
 
         int similarityScore = 0;
-        foreach(int number in leftList)
+        foreach (int number in leftList)
         {
-            if(rightListCounts.ContainsKey(number))
+            if (rightListCounts.ContainsKey(number))
             {
                 similarityScore += number * rightListCounts[number];
             }
